@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astolfovalentim/back-rick-and-morty.git"
+    "url": "git+https://github.com/astolfovalentim/modulo-3-projeto-3"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/astolfovalentim/back-rick-and-morty/issues"
+    "url": "https://github.com/astolfovalentim/modulo-3-projeto-3/issues"
   },
-  "homepage": "https://github.com/astolfovalentim/back-rick-and-morty#readme",
+  "homepage": "https://github.com/astolfovalentim/modulo-3-projeto-3#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
