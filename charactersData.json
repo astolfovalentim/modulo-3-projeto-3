@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Beth Smith",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+  },
+  {
+    "name": "Davin",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+  },
+  {
+    "name": "Risotto's Tentacled Henchman",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/297.jpeg"
+  },
+  {
+    "name": "Baby Legs Chief",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/417.jpeg"
+  },
+  {
+    "name": "Wasp Beth",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/521.jpeg"
+  },
+  {
+    "name": "Glockenspiel Summer",
+    "imageUrl": "https://rickandmortyapi.com/api/character/avatar/695.jpeg"
+  }
+]
