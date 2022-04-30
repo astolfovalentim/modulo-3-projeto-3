@@ -22,7 +22,6 @@ Os critérios de avaliação são:
   - Formatação do código utilizando o Prettier (1 ponto);
   - Persistência de dados no MongoDB (1 ponto).
 
-https://mod3-back-rickandmorty.onrender.com/characters
+https://proj3-mod3.onrender.com
 
-https://mod3-back-rickandmorty.onrender.com/api-docs
-
+https://proj3-mod3.onrender.com/api-docs

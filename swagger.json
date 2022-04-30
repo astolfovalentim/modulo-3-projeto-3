@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "https://mod3-back-rickandmorty.onrender.com",
+      "url": "https://proj3-mod3.onrender.com",
       "description": "API de produção Render"
     },
 
