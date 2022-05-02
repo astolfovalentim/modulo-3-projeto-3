@@ -13,6 +13,7 @@ route.get('/api-docs', swaggerUi.setup(swaggerDocument));
 route.get('/characters', controllerCharacters.findAllCharactersController);
 route.get(
   '/characters/find/:id',
+  validId,
   controllerCharacters.findByIdCharactersController,
 );
 
@@ -32,11 +33,5 @@ route.delete(
   validId,
   controllerCharacters.deleteCharactersController,
 );
-
-/* route.get(
-  '/characters/search',
-  validObjectBody,
-  controllerCharacters.findByIdCharactersController,
-); */
 
 module.exports = route;
