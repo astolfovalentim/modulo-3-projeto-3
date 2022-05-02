@@ -27,5 +27,5 @@ Links:
 Swagger:
 https://proj3-mod3.onrender.com/api-docs
 
-
+Link: All Characters
 https://proj3-mod3.onrender.com/characters
