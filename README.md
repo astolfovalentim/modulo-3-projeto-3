@@ -27,5 +27,8 @@ Links:
 Swagger:
 https://proj3-mod3.onrender.com/api-docs
 
+Servidor render:
+https://proj3-mod3.onrender.com/
+
 Link: All Characters
 https://proj3-mod3.onrender.com/characters
